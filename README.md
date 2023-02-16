@@ -1,1 +1,2 @@
-# Todo-list
+# A simple Todo-list Using Dart & Flutter
+
